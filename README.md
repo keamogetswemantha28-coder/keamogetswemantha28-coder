@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**keamogetswemantha28-coder/keamogetswemantha28-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Keamogetswe 👋
+Aspiring Data Engineer | Java | SQL | Data & Databases
 
-Here are some ideas to get you started:
+I'm building my foundation in Data Engineering, with an interest in collecting, storing and processing data to turn it into useful information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on
+- CricketPulse — exploring cricket match data.
+- Strengthening my Java and SQL skills.
+- Learning how data moves from raw files into structured information.
+Skills I'm developing
+- Python and Java
+- SQL and databases
+- JSON and data processing
+- Data pipelines
